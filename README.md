@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **ReactJS , Advance Java**
 
-- - 📫 How to reach me **prathamgajapure13@gmail.com**
+- 📫 How to reach me **prathamgajapure13@gmail.com**
 
 - I'm looking to collaborate on: **Fullstack projects**
 
