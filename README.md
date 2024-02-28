@@ -1,9 +1,8 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://pratham-2023.io)
 <h1 align="center">Hey 👋, I'm Pratham Gajapure</h1>
 <h3 align="center">-Full Stack Web Developer-</h3>
-
-- 🔭 I’m currently working on: **Resume Builder App**
+-About Me:
+- 🔭 I’m currently working on: **Improving my overall logic building skill**
 
 - 🌱 I’m currently learning: **ReactJS , Advance Java**
 
@@ -11,6 +10,7 @@
 
 - I'm looking to collaborate on: **Fullstack projects**
 
+- Currently working on a Resume Builder App 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
