@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: My personal Portfolio Website<br><br>🌱 I’m currently learning: ReactJS , Advance Java<br><br>📫 How to reach me prathamgajapure13@gmail.com<br><br>I'm looking to collaborate on: Fullstack projects<br><br>
+🔭 I’m currently working on: My personal Portfolio Website<br><br>🌱 & learning: ReactJS , Advance Java<br><br>📫 How to reach me prathamgajapure13@gmail.com<br><br>I'm looking to collaborate on: Fullstack projects<br><br>
 
 
 ## 🌐 Socials:
